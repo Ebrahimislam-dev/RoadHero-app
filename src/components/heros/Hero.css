@@ -10,7 +10,6 @@
 .herocard-img{
     height: 250px;   
 }
-.Social-icon fab:hover{
-  background-color: aqua;
+.Social-icon:hover{
   cursor: pointer;
 }

@@ -20,13 +20,12 @@ const Heros = (props) => {
                         <h6>Country: {Country}</h6>
                         <h6>Work Experience: {experience}</h6>
                         {/* Adding React Rating */}
-                        <p><Rating
+                       <h6> <p>Client Rating: <Rating
                             initialRating={rating}
                             emptySymbol="far fa-star"
                             fullSymbol="fas fa-star text-info"
                             readonly
-                        /> {rating}/5 </p>
-
+                        /> {rating}/5 </p></h6>
                         <h6 >Price: ${price}</h6>
                         <br />
                         {/* Hire me button  */}
