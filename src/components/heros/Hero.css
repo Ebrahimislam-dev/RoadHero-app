@@ -1,6 +1,4 @@
-.hero-card{
-    cursor: pointer;
-}
+
 .hero-card:hover{
     background: linear-gradient(to right, #ece9e6, #ffffff);
    
@@ -9,7 +7,10 @@
     margin-left: 15px;
 } 
 
-.herocard-img img{
-    height: 250px;
-    
+.herocard-img{
+    height: 250px;   
+}
+.Social-icon fab:hover{
+  background-color: aqua;
+  cursor: pointer;
 }

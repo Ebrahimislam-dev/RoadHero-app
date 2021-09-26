@@ -11,8 +11,8 @@ const Heros = (props) => {
             <div>
                 {/* Load data Card  */}
                 <div className="card shadow-lg hero-card">
-                    <div>
-                        <img src={img} className="card-img-top " alt="" />
+                    <div className="">
+                        <img src={img} className="card-img-top herocard-img " alt="" />
                     </div>
                     {/* Showing data dynimically */}
                     <div className="mt-3 text-start hero-details">
@@ -35,11 +35,11 @@ const Heros = (props) => {
                         </button>
                     </div>
                     {/* Social Media Tags */}
-                    <div className="card-body d-flex justify-content-around fs-2 ">
-                        <a href="/facebook"><i className="text-dark fab fa-facebook-square"></i></a>
-                        <a href="/linkdIn"><i className="text-dark fab fa-linkedin"></i></a>
-                        <a href="/whatsApp"><i className="text-dark fab fa-whatsapp-square"></i></a>
-                        <a href="/twiter"><i className="text-dark fab fa-twitter-square"></i></a>
+                    <div className="card-body d-flex justify-content-around fs-2 Social-icon">
+                        <a href="/facebook"><i className="Social-icon text-dark fab fa-facebook-square"></i></a>
+                        <a href="/linkdIn"><i className="Social-icon text-dark fab fa-linkedin"></i></a>
+                        <a href="/whatsApp"><i className="Social-icon text-dark fab fa-whatsapp-square"></i></a>
+                        <a href="/twiter"><i className="Social-icon text-dark fab fa-twitter-square"></i></a>
                     </div>
                 </div>
 
