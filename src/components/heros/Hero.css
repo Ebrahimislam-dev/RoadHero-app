@@ -1,0 +1,21 @@
+.hero-card{
+    cursor: pointer;
+    /* align-items: center; */
+}
+.hero-card:hover{
+    background: linear-gradient(to right, #ece9e6, #ffffff);
+   
+}
+ .hero-details{
+    margin-left: 15px;
+} 
+.herocard-img{
+   align-items: center; 
+   margin-left: 25px;
+}
+.herocard-img img{
+    /* align-items: center; */
+    width: 250px;
+    height: 250px;
+    border-radius:18px 18px; 
+}

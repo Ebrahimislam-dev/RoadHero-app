@@ -1,0 +1,137 @@
+[
+    {
+        "key": "K01",
+        "name": "Abul Mia",
+        "Country": "Bangladesh",
+        "experience": "10 Years",
+        "rating": 4,
+        "img": "https://image.shutterstock.com/image-photo/handsome-engineers-wear-protective-helmets-260nw-1157605744.jpg",
+        "price": 150000
+    },
+    {
+        "key": "K03",
+        "name": "Akako",
+        "Country": "Japan",
+        "experience": "15 Years",
+        "rating": 4.5,
+        "img": "https://image.shutterstock.com/image-photo/handsome-engineers-wear-protective-helmets-260nw-1157605744.jpg",
+        "price": 160000
+    },
+    {
+        "key": "K03",
+        "name": "Kobir Khan",
+        "Country": "India",
+        "experience": "17 Years",
+        "rating": 5,
+        "img": "https://cdn.w600.comps.canstockphoto.com/blue-collar-worker-stock-photo_csp22771820.jpg",
+        "price": 2550000
+    },
+    {
+        "key": "K04",
+        "name": "Sarfaroj Khan",
+        "Country": "Pakistan",
+        "experience": "13 Years",
+        "rating": 4.2,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54f0IXqxagaG5aeEeTT0MoCI4C3cw7alu14_ieAQbV00Ok2yx7FwqkabIwRh6wrMPpo0&usqp=CAU",
+        "price": 350000
+    },
+    {
+        "key": "K05",
+        "name": "Khan bahadur",
+        "Country": "Afganistan",
+        "experience": "4.50 Years",
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3q4_axUbNm4w2FB27czShEO57udQ0HDeJjfBw5P4CwPlSf2VlAfaY-enbizOMIE2WdZI&usqp=CAU",
+        "price": 450000
+    },
+    {
+        "key": "K06",
+        "name": "Arjit shen",
+        "Country": "Nepal",
+        "experience": "5 Years",
+        "rating": 3.4,
+        "img": "https://www.laborfinders.com/media/4235/modern-blue-collar-worker.jpg?anchor=center&mode=crop&width=738&height=440&rnd=132733628380000000&quality=80",
+        "price": 570000
+    },
+    {
+        "key": "K07",
+        "name": "Abu Kaif",
+        "Country": "Kuwait",
+        "experience": "9 Years",
+        "rating": 3,
+        "img": "https://previews.123rf.com/images/michaeljung/michaeljung1202/michaeljung120200116/12431976-happy-blue-collar-worker-working-in-workshop.jpg",
+        "price": 570900
+    },
+    {
+        "key": "K08",
+        "name": "Saif Ali",
+        "Country": "Bangladesh",
+        "experience": "3 Years",
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjWRFyWauNhN61enfMFiaAtSOoaSs_NFR-w&usqp=CAU",
+        "price": 577900
+    },
+    {
+        "key": "K09",
+        "name": "Siddu Sing",
+        "Country": "India",
+        "experience": "7 Years",
+        "rating": 4.5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkgsEWHvdTTktJmB3eSByK0e4AV7Oadb1HNA&usqp=CAU",
+        "price": 548900
+    },
+    {
+        "key": "K15",
+        "name": "Kapil Sharma",
+        "Country": "Singapore",
+        "experience": "14 Years",
+        "rating": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4eKegrVKKCBWNYbbe1AlgPZ6x3JmsnDmJ2GUuzK34TWlLmicjAuZLbxgI-ZvHnueT6U&usqp=CAU",
+        "price": 948900
+    },
+    {
+        "key": "K11",
+        "name": "Onsen su",
+        "Country": "Mayanmar",
+        "experience": "3.51 Years",
+        "rating": 5,
+        "img": "https://media.gettyimages.com/photos/construction-worker-team-portrait-looking-at-camera-picture-id1054724816?s=612x612",
+        "price": 858900
+    },
+    {
+        "key": "K12",
+        "name": "H.Donal",
+        "Country": "USA",
+        "experience": "8 Years",
+        "rating": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGw9iyFixUIKv_ylrGhno198WI2zpSz4MqA&usqp=CAU",
+        "price": 858914
+    },
+    {
+        "key": "K13",
+        "name": "Barek khan",
+        "Country": "Soudi Arab",
+        "experience": "18 Years",
+        "rating": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIlHxhFDgb-gD2pwf8NJwVV1Y8067aIjVaw&usqp=CAU",
+        "price": 858000
+    },
+    {
+        "key": "K14",
+        "name": "Korimul Islam",
+        "Country": "Bangladesh",
+        "experience": "11 Years",
+        "rating": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjYiR6vlLfG8LyX9oFeu7L630sheypM8Y-HfvZI812y2nx_URUyW3QkCB5mnX91aSVaxA&usqp=CAU",
+        "price": 898000
+    },
+    {
+        "key": "K15",
+        "name": "Akasuki",
+        "Country": "China",
+        "experience": "13 Years",
+        "rating": 4.5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3MyKX811-2CQHpDJYV9hC7MnF8dB3mLeX4_WPePNDB6QodPd1KYWmIPRNzcQs5vs6i_o&usqp=CAU",
+        "price": 798000
+    }
+]

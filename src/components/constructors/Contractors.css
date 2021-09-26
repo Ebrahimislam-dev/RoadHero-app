@@ -1,0 +1,16 @@
+.Contractors-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr ;
+    background: linear-gradient(to right, #ada996, #f2f2f2, #dbdbdb, #eaeaea);
+}
+.hero-container{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-gap: 10px;
+    margin-top: 20px;
+    padding-right: 10px;
+    border-right: 1px solid lightgray;
+}
+.cart-container{
+    text-align: center;
+}
