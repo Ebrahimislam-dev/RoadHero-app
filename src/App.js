@@ -6,8 +6,10 @@ import Header from './components/header/Header';
 function App() {
   return (
     <div>
-     <Header></Header>
-     <Contractors></Contractors>
+      {/* Adding header component */}
+      <Header></Header>
+      {/* Adding main section component */}
+      <Contractors></Contractors>
     </div>
   );
 }

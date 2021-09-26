@@ -1,6 +1,5 @@
 .hero-card{
     cursor: pointer;
-    /* align-items: center; */
 }
 .hero-card:hover{
     background: linear-gradient(to right, #ece9e6, #ffffff);

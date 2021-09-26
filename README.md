@@ -11,11 +11,11 @@ Basically In this project, you can Hire our  team members for constracting a roa
 ### Project Features
 1. You can see their Names and Country information.
 
-2.You can hire multiple Person at a time.
+2. You can hire multiple Person at a time.
 
-3.You can see their working salery.
+3. You can see their working salery.
 
-4.You can See their working Review ratings
+4. You can See their working Review ratings
 
 5. You can also connect with them via social medias
 
@@ -26,6 +26,6 @@ Basically In this project, you can Hire our  team members for constracting a roa
 2. You can see those members which you have you hired in the list.
 
 3. You can see their total Cost whenever you hire multiple person.
-  
+
 4. Also you can see how many members you hired for your construction
 

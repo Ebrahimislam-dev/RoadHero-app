@@ -1,8 +1,10 @@
+/* styles for main display */
 .Contractors-container{
     display: grid;
     grid-template-columns: 3fr 1fr ;
     background: linear-gradient(to right, #ada99680, #f2f2f2, #dbdbdb, #eaeaea);
 }
+/* styles for load data display */
 .hero-container{
     display: grid;
     grid-template-columns:repeat(3, 1fr);
@@ -11,6 +13,7 @@
     padding-right: 10px;
     border-right: 1px solid lightgray;
 }
+/* styles for cart display */
 .cart-container{
     text-align: center;
 }
