@@ -14,14 +14,14 @@
         "Country": "Japan",
         "experience": "15 Years",
         "rating": 4.5,
-        "img": "https://image.shutterstock.com/image-photo/handsome-engineers-wear-protective-helmets-260nw-1157605744.jpg",
+        "img": "https://media.gettyimages.com/photos/road-work-safety-picture-id672690216?s=612x612",
         "price": 160000
     },
     {
         "key": "K03",
         "name": "Kobir Khan",
-        "Country": "India",
-        "experience": "17 Years",
+        "Country": "Australia",
+        "experience": "7 Years",
         "rating": 5,
         "img": "https://cdn.w600.comps.canstockphoto.com/blue-collar-worker-stock-photo_csp22771820.jpg",
         "price": 2550000
@@ -59,7 +59,7 @@
         "Country": "Kuwait",
         "experience": "9 Years",
         "rating": 3,
-        "img": "https://previews.123rf.com/images/michaeljung/michaeljung1202/michaeljung120200116/12431976-happy-blue-collar-worker-working-in-workshop.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6UvyYi3fMtScDraihtLHyLp6E-N3QwaGxDnYaHTdPfh34oIg7hD0LtlaFJVdDCEJccEQ&usqp=CAU",
         "price": 570900
     },
     {
@@ -94,7 +94,7 @@
         "name": "Onsen su",
         "Country": "Mayanmar",
         "experience": "3.51 Years",
-        "rating": 5,
+        "rating": 4.7,
         "img": "https://media.gettyimages.com/photos/construction-worker-team-portrait-looking-at-camera-picture-id1054724816?s=612x612",
         "price": 858900
     },
@@ -103,8 +103,8 @@
         "name": "H.Donal",
         "Country": "USA",
         "experience": "8 Years",
-        "rating": 5,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGw9iyFixUIKv_ylrGhno198WI2zpSz4MqA&usqp=CAU",
+        "rating": 4.5,
+        "img": "https://www.dolmanlaw.com/wp-content/uploads/2017/11/Florida-Road-Construction-Accidents.jpg",
         "price": 858914
     },
     {

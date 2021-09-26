@@ -10,8 +10,8 @@ const Header = () => {
                 <a href="/inventory">Hire</a>
             </nav>
             <div className="bg-dark text-info text-center pb-3">
-                <h1>Make a Road Constructor's Team </h1>
-                <h3>Welcome To Our Road Hero's</h3>
+                <h1>Road Constructor's Team </h1>
+                <h3>Select Road Hero's for Consraction Your Roads </h3>
                 <h3>Total Budget : 200 Million</h3>
             </div>
 
